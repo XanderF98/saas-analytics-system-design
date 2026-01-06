@@ -1,2 +1,17 @@
-# saas-analytics-system-design
-saas-analytics-system-design/ ├── README.md ├── docs/ │   ├── system-overview.md │   ├── architecture-diagram.png   ← 1600×900 PNG diagram │   ├── api-contracts.md │   ├── non-functional-requirements.md │   ├── tradeoffs.md │   └── risks-and-mitigations.md └── plan/     ├── roadmap.md     ├── milestones.md     └── dependencies.md
+
+# End-to-End System Design & Delivery: Multitenant SaaS Analytics Platform
+
+## Overview
+This repository documents the end-to-end design and delivery plan for a fictional
+multitenant SaaS analytics platform intended to support mid-market and enterprise customers.
+The goal is to demonstrate how a Technical Program Manager (TPM):
+
+- Partners with engineering on system design
+- Drives architectural tradeoff discussions
+- Anticipates scaling, security, and reliability challenges
+- Plans delivery across multiple teams and phases
+
+This is not a coding project. It reflects real-world TPM artifacts used to align
+engineering, product, and leadership teams.
+
+## Contents
